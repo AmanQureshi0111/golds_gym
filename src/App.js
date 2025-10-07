@@ -2,9 +2,9 @@ import React from 'react'
 
 const App = () =>{
     return(
-        <diV>
+        <div>
             App
-        </diV>
+        </div>
     )
 }
 export default App
