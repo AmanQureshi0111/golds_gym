@@ -6,7 +6,7 @@ import ExerciseCard from './ExerciseCard';
 import BodyPart from './BodyPart';
 import RightArrowIcon from '../assets/icons/right-arrow.png';
 import LeftArrowIcon from '../assets/icons/left-arrow.png';
-// import 'react-horizontal-scrolling-menu'
+import 'react-horizontal-scrolling-menu'
 
 const LeftArrow = () => {
   const { scrollPrev } = useContext(VisibilityContext);
